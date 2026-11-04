@@ -1,0 +1,10 @@
+# build products
+*.o
+/NestedLogit
+/generator/ProblemGenerator-NestedLogit
+
+# solver output (written next to the instance files)
+instances/**/*--*
+instances/**/*-ep*.res
+instances/**/*_res.tclin*
+instances/**/*_boxes.txt
