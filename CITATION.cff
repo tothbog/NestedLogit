@@ -3,6 +3,7 @@ message: "If you use this software, please cite the article below."
 title: "NestedLogit: interval branch-and-bound solver for a competitive facility location and design problem with the nested logit choice rule"
 version: 0.0.3
 license: GPL-3.0-or-later
+doi: 10.5281/zenodo.23963297
 repository-code: "https://github.com/tothbog/NestedLogit"
 authors:
   - family-names: "G.-Tóth"

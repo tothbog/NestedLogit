@@ -1,6 +1,10 @@
 # NestedLogit
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23963297.svg)](https://doi.org/10.5281/zenodo.23963297)
+
 https://github.com/tothbog/NestedLogit
+
+The code and the instances are archived at Zenodo: https://doi.org/10.5281/zenodo.23963297
 
 Interval branch-and-bound solver for the continuous competitive single facility
 location and design problem with the nested logit choice rule, together with the
