@@ -1,5 +1,4 @@
 # NestedLogit
-<<<<<<< HEAD
 
 https://github.com/tothbog/NestedLogit
 
@@ -122,6 +121,7 @@ their original copyright notice and terms (free for non-commercial use).
 
 Except for the third-party files listed above, the code is distributed under the
 GNU General Public License v3.0 or later, see `LICENSE`.
-=======
-J. Fernández, B. G.-Tóth, G. Méndez-Vogel, V. Marianov: A continuous competitive single facility location and design problem with the nested logit choice rule. 
->>>>>>> c1745b513fd4c82fc6a90011eda8c4b3c95b71fd
+
+> J. Fernández, B. G.-Tóth, G. Méndez-Vogel, V. Marianov:
+> *A continuous competitive single facility location and design problem with the
+> nested logit choice rule.* Submitted to Omega.
